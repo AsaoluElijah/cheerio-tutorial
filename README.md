@@ -1,8 +1,8 @@
-# FeatRocket
+# FeatRocket 🚀
 
 A CLI application that scrap featured articles on [blog.logrocket.com](https://blog.logrocket.com) and log them to the console. Built with cheerio and Node.js
 
-## Setup
+## Setup ⚙
 
 ```bash
 git clone https://github.com/AsaoluElijah/cheerio-tutorial.git
@@ -11,7 +11,7 @@ npm install
 
 ```
 
-## Run
+## Run ⚡
 
 ```bash
 node scrap.js
